@@ -3,3 +3,6 @@ def clean():
 
 def load_data():
   print("data loading...")
+
+def processing():
+  print("processing the files...")
