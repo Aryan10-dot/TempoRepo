@@ -2,3 +2,6 @@ def add(val1,val2):
         return val1+val2
 
 print(add(7,9))
+
+def sub(val1,val2):
+        return val1-val2

@@ -1,0 +1,15 @@
+*   2c147fa merged helper branch
+|\  
+| * 9dcae0b processing data
+| * cdb1bc4 added load_data function
+* | 448733b added visual function
+|/  
+*   99602e9 Merge branch 'main' of https://github.com/Aryan10-dot/TempoRepo
+|\  
+| * 44f265d modified clean.data.py
+* | 900ac11 date and time
+|/  
+* d0b8f17 modified
+* 2bb455f created main.py
+* 2bcb74e created data.txt
+* 1a8af70 Initial commit
